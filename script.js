@@ -30,7 +30,7 @@
 
 
 
-// TASK 2 ||||||||||||||||||||||||||||| Yozuv ichidagi juft raqamlarni topish 
+// TASK 3 ||||||||||||||||||||||||||||| Yozuv ichidagi juft raqamlarni topish 
 
 // let id = "a2b9d4u6l3a5z8i7z";
 // let num = '';
@@ -54,21 +54,32 @@
 
 
 
+// Boolean Tasks (ifga oid malalar ishlash)
+
+// TASK 1 |||||||||||||||||||||||||||||
+
+// let a = 111;
+
+// if (a > 99 && a < 1000){
+//     if (a % 2 != 0){
+//         console.log(true);
+//     } else {
+//         console.log(false);
+//     }
+// } else{
+//     console.log(false);
+// }
 
 
 
+// TASK 2 |||||||||||||||||||||||||||||
 
+// let a = 300;
+// let b = 100;
+// let c = 300;
 
-
-
-
-
-
-
-
-
-
-
-
-
-// ifga oid malalar ishlash
+// if (a == b || b == c || a == c){
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
