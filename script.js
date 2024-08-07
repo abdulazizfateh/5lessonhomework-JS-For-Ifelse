@@ -118,3 +118,69 @@
 // } else {
 //     console.log(false);
 // }
+
+
+
+
+// TASK 5 |||||||||||||||||||||||||||||
+
+// let num = 159;
+
+// a = num % 100;            // a = 29;
+// first = (num - a) / 100;  // first = 3; 
+// last = a % 10;            // last = 9;
+// middle = (a - last) / 10; // middle = 2;
+
+// if (num > 99 && num < 1000) {
+//     if (first < middle && middle < last) {
+//         console.log(true);
+//     } else {
+//         console.log(false);
+//     }
+// } else {
+//     console.log(false);
+// }
+
+
+
+// TASK 6 |||||||||||||||||||||||||||||
+
+// let num = 841;
+
+// a = num % 100;            // a = 29;
+// first = (num - a) / 100;  // first = 3; 
+// last = a % 10;            // last = 9;
+// middle = (a - last) / 10; // middle = 2;
+
+// if (num > 99 && num < 1000) {
+//     if (first < middle && middle < last || first > middle && middle > last) {
+//         console.log(true);
+//     } else {
+//         console.log(false);
+//     }
+// } else {
+//     console.log(false);
+// }
+
+
+
+
+
+// TASK 7 |||||||||||||||||||||||||||||
+
+// let num = 131;
+
+// a = num % 100;            // a = 29;
+// first = (num - a) / 100;  // first = 3; 
+// last = a % 10;            // last = 9;
+// middle = (a - last) / 10; // middle = 2;
+
+// if (num > 99 && num < 1000) {
+//     if (first == last) {
+//         console.log(true);
+//     } else {
+//         console.log(false);
+//     }
+// } else {
+//     console.log(false);
+// }
