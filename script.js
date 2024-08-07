@@ -60,6 +60,7 @@
 
 // let a = 111;
 
+
 // if (a > 99 && a < 1000){
 //     if (a % 2 != 0){
 //         console.log(true);
@@ -80,6 +81,40 @@
 
 // if (a == b || b == c || a == c){
 //     console.log(true);
+// } else {
+//     console.log(false);
+// }
+
+
+// TASK 3 |||||||||||||||||||||||||||||
+
+// let a = -1;
+// let b = 1;
+// let c = 2;
+
+// if (a === -b || b === -c || b === -c ){
+//     console.log(true);
+// } else {
+//     console.log(false)
+// }
+
+
+
+// TASK 4 |||||||||||||||||||||||||||||
+
+// let num = 21;
+
+// a = num % 100;            // a = 29;
+// first = (num - a) / 100;  // first = 3; 
+// last = a % 10;            // last = 9;
+// middle = (a - last) / 10; // middle = 2;
+
+// if (num > 99 && num < 1000) {
+//     if (first != middle && middle != last && first != last) {
+//         console.log(true);
+//     } else {
+//         console.log(false);
+//     }
 // } else {
 //     console.log(false);
 // }
